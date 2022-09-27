@@ -159,6 +159,24 @@ class: inverse, center
 
 ---
 
+# Git
+
+* Sistema de controle de versões distribuído
+
+--
+* Ótimo para projetos em grupo
+
+--
+* Não serve só para códigos
+
+--
+* Utilizado em muitas empresas
+
+--
+* Integração com o RStudio
+
+---
+
 class: inverse, center
 
 ```{r echo=FALSE, fig.align='center', message=FALSE, warning=FALSE, out.width='60%', paged.print=FALSE}
